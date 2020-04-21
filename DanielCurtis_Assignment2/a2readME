@@ -1,0 +1,20 @@
+a) I created a star(kind of)  The star is visible, but when it 
+turns to the side only a triangle is visible when it should be 
+another star(2 triangles). It should be 4 stars(2 stars one 
+size 2 stars another size).  It is fairly messy, but it fulfills
+the basic requirements.  
+
+b) all texture items I took from the folder LunaTextures+NormalMaps 
+that came with the book.  
+
+Sphere model taken from Prog6_1
+Pyramid model taken from Prog5_1
+Shuttle Obj taken from Prog6_3
+
+c) I don't know if it is considered different but I added a Reset button
+You can re-center the sun on the screen with the 'x' key.
+
+d)Screenshot included
+
+e) Tested successfully on PONG in RVR 5029
+
